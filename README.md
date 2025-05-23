@@ -59,7 +59,6 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/fehhmont/fehhmont/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/fehhmont/fehhmont/blob/output/github-snake-dark.svg)
 
 ###

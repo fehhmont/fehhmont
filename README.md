@@ -30,8 +30,8 @@ Sou um profissional em início de carreira em tecnologia, com formação técnic
 - 📚 Atualmente estudando Java, Python e SQL<br>
 - ⚙️ Interesse em desenvolvimento, dados e automações<br>
 - 🛹 No tempo livre, gosto de andar de skate
+  </p>
   
-</p>
 ###
 
 <h3 align="left">🛠 Language and tools</h3>

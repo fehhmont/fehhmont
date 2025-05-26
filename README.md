@@ -21,12 +21,17 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  Sobre Mim</h3>
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
-
+<p align="left">
+Sou um profissional em início de carreira em tecnologia, com formação técnica em Informática e cursando Análise e Desenvolvimento de Sistemas. Tenho experiência com suporte técnico, foco em Back-End, Análise de Dados e Banco de Dados. <br><br>
+- 📚 Atualmente estudando Java, Python e SQL<br>
+- ⚙️ Interesse em desenvolvimento, dados e automações<br>
+- 🛹 No tempo livre, gosto de andar de skate
+  
+</p>
 ###
 
 <h3 align="left">🛠 Language and tools</h3>

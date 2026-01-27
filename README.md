@@ -27,7 +27,7 @@
 
 <p align="left">
 Sou um profissional com formação técnica em Informática e cursando Análise e Desenvolvimento de Sistemas. Tenho experiência com suporte técnico, foco em Back-End, Análise de Dados e Banco de Dados. <br><br>
-- 📚 Atualmente estudando Java, Python e SQL<br>
+- 📚 Java, Python e SQL<br>
 - ⚙️ Interesse em desenvolvimento, dados e automações<br>
 - 🛹 No tempo livre, gosto de andar de skate
   </p>

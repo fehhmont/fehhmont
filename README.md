@@ -64,6 +64,6 @@ Sou um profissional com formação técnica em Informática e cursando Análise 
 </div>
 
 ###
-![snake gif](https://github.com/fehhmont/fehhmont/blob/output/github-snake-white.svg)
+![snake gif](https://github.com/fehhmont/fehhmont/blob/output/github-snake-Dark.svg)
 
 ###
